@@ -1,0 +1,30 @@
+c:\users\dt user\documents\visual studio 2015\Projects\rok_11_7_2014\rok_11_7_2014\bin\Debug\rok_11_7_2014.exe
+c:\users\dt user\documents\visual studio 2015\Projects\rok_11_7_2014\rok_11_7_2014\bin\Debug\rok_11_7_2014.pdb
+c:\users\dt user\documents\visual studio 2015\Projects\rok_11_7_2014\rok_11_7_2014\obj\Debug\rok_11_7_2014.csprojResolveAssemblyReference.cache
+c:\users\dt user\documents\visual studio 2015\Projects\rok_11_7_2014\rok_11_7_2014\obj\Debug\rok_11_7_2014.Form1.resources
+c:\users\dt user\documents\visual studio 2015\Projects\rok_11_7_2014\rok_11_7_2014\obj\Debug\rok_11_7_2014.Properties.Resources.resources
+c:\users\dt user\documents\visual studio 2015\Projects\rok_11_7_2014\rok_11_7_2014\obj\Debug\rok_11_7_2014.csproj.GenerateResource.Cache
+c:\users\dt user\documents\visual studio 2015\Projects\rok_11_7_2014\rok_11_7_2014\obj\Debug\rok_11_7_2014.exe
+c:\users\dt user\documents\visual studio 2015\Projects\rok_11_7_2014\rok_11_7_2014\obj\Debug\rok_11_7_2014.pdb
+c:\users\dt user\documents\visual studio 2015\Projects\rok_11_7_2014\rok_11_7_2014\obj\Debug\rok_11_7_2014.RezervacijaSjedista.resources
+C:\Users\15\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.exe
+C:\Users\15\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.pdb
+C:\Users\15\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\bin\Debug\rok_11_7_2014.exe
+C:\Users\15\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\bin\Debug\rok_11_7_2014.pdb
+C:\Users\15\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.csprojResolveAssemblyReference.cache
+C:\Users\15\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.Form1.resources
+C:\Users\15\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.Properties.Resources.resources
+C:\Users\15\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.RezervacijaSjedista.resources
+C:\Users\15\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.csproj.GenerateResource.Cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\bin\Debug\rok_11_7_2014.exe
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\bin\Debug\rok_11_7_2014.pdb
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.csprojAssemblyReference.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.Form1.resources
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.Properties.Resources.resources
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.RezervacijaSjedista.resources
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.csproj.GenerateResource.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.csproj.CoreCompileInputs.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.exe
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.pdb
+D:\Fax\TMP-Zadaci\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.exe
+D:\Fax\TMP-Zadaci\TPM\TMP rokovi\I kol, rokovi, WAF\rok_11_7_2014Autobus\rok_11_7_2014\obj\Debug\rok_11_7_2014.pdb
